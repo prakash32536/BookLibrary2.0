@@ -19,12 +19,6 @@ export const datas = [
         icon : <PreviewIcon/>,
         route:"/view-book"
 
-    },
-    {
-        id : 1 ,
-        title : "Search your book hare.",
-        description : "You want to Search your book, just enter hare ",
-        icon : <SearchIcon/>
-
-    },
+    }
+  
 ]
