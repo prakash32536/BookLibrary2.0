@@ -1,0 +1,54 @@
+{
+  "save-book-data": [
+    {
+      "id": 1,
+      "formData": {
+        "auther_name": "Douglas Crockford",
+        "book_description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined.",
+        "book_id": 1,
+        "book_name": "JavaScript: The Good Parts",
+        "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSSW2uj8L78w2zfYlCtFzSH_FdlSE8OUEUIQ&usqp=CAU"
+      }
+    },
+    {
+      "book_id": "awfawf",
+      "book_name": "asdf",
+      "book_description": "asfdsda",
+      "auther_name": "adsf",
+      "cover_image": "adfa",
+      "id": 2
+    },
+    {
+      "book_id": "jbkb",
+      "book_name": "jbkb",
+      "book_description": "kjbkn ",
+      "auther_name": "kjbkb",
+      "cover_image": "kbkb",
+      "id": 3
+    },
+    {
+      "book_id": "adadv",
+      "book_name": "sdf",
+      "book_description": "asdff",
+      "auther_name": "asdff",
+      "cover_image": "asdff",
+      "id": 4
+    },
+    {
+      "book_id": "lnln",
+      "book_name": "asdgfsgd",
+      "book_description": "aga",
+      "auther_name": "argsg",
+      "cover_image": "eargqg",
+      "id": 5
+    },
+    {
+      "book_id": "nlnln",
+      "book_name": "lknln",
+      "book_description": "lknln",
+      "auther_name": "knkln",
+      "cover_image": "knlnn",
+      "id": 6
+    }
+  ]
+}
